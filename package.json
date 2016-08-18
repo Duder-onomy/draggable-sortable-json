@@ -1,0 +1,19 @@
+{
+  "name": "draggable-sortable-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duder-onomy/draggable-sortable-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Duder-onomy/draggable-sortable-json/issues"
+  },
+  "homepage": "https://github.com/Duder-onomy/draggable-sortable-json#readme",
+  "description": ""
+}
